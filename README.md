@@ -2,6 +2,10 @@
 
 ## To Use
 
+### Download DMG
+
+- [Weex IDE.dmg for Macos](https://github.com/weexteam/weex-ide/releases/download/0.1.2/Weex-IDE-darwin-x64-for-macos-0.1.2.dmg)
+
 ### Start With Source
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
